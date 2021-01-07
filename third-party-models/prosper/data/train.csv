@@ -1,3 +1,4 @@
+target,gender,age_range,household_income_range,zip_feature_0,zip_feature_1,zip_feature_2,zip_feature_3,zip_feature_4,zip_feature_5,zip_feature_6,zip_feature_7,zip_feature_8,zip_feature_9,zip_feature_10,zip_feature_11,zip_feature_12,zip_feature_13,zip_feature_14,zip_feature_15,zip_feature_16,zip_feature_17,zip_feature_18,zip_feature_19,zip_feature_20,zip_feature_21,zip_feature_22,zip_feature_23,zip_feature_24
 0.6004737615585327,1,3,23,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 0.6004737615585327,1,3,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
 0.6004737615585327,1,3,24,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
